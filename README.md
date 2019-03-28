@@ -1,3 +1,3 @@
 # LatexExercise
 
-<img src="https://latex.codecogs.com/svg.latex?y=$basic-cust-accts\leftarrow\Pi{(name,customer.sin,account-number)(\sigma_{customer.sin=account.sin}(customer\times account))$"/>
+<img src="https://latex.codecogs.com/svg.latex?y=\sigma_{creditLimit>5000 \wedge country='France'}\rho_{rep/salesRepEmployeeNumber}(customers)"/>
