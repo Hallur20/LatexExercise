@@ -1,3 +1,3 @@
 # LatexExercise
 
-<img src="https://latex.codecogs.com/svg.latex?y=\sigma customerName"/>
+<img src="https://latex.codecogs.com/svg.latex?y=\sigma=customerName"/>
