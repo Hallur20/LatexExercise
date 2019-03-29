@@ -6,6 +6,6 @@
 
 select count(*) as 'numOfRows' from offices;
 
-<img src="https://latex.codecogs.com/svg.latex?\Pi\;c.customerName,office\char`_city(\sigma\;P(\rho\;office\char`_city/o.city(customers^{122}\;x\;employees^{23}\;x\;offices^{7})^{19642}))"/>
+<img src="https://latex.codecogs.com/svg.latex?\Pi\;c.customerName,office\char`_city(\sigma\;P(\rho\;office\char`_city/o.city(customers^{122}\;x\;employees^{23}\;x\;offices^{7})^{19642})^{17})"/>
 
 
