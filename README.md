@@ -6,6 +6,6 @@
 
 select count(*) as 'numOfRows' from offices;
 
-<img src="https://latex.codecogs.com/svg.latex?customers^{test}"/>
+<img src="https://latex.codecogs.com/svg.latex?customers^{122}\;x\;employees^{23}\;offices^{7}"/>
 
 
