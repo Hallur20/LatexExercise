@@ -6,4 +6,4 @@
 
 
 
-<img src="https://latex.codecogs.com/svg.latex?where"/>
+<img src="https://latex.codecogs.com/svg.latex?where P"/>
