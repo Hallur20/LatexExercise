@@ -1,11 +1,11 @@
 # LatexExercise
 
-<img src="https://latex.codecogs.com/svg.latex?P\;of\!fice_city/o.city(\sigma\;c.salesRepEmployeeNumber=e.employeeNumber(\sigma\;e.officeCode=o.officeCode(\sigma\;c.city=o.city(customers\;x\;employees\;x\;offices))))"/>
+<img src="https://latex.codecogs.com/svg.latex?P\;of\!ficechar`_city/o.city(\sigma\;c.salesRepEmployeeNumber=e.employeeNumber(\sigma\;e.of\!ficeCode=o.of\!ficeCode(\sigma\;c.city=o.city(customers\;x\;employees\;x\;of\!fices))))"/>
 
-<img src="https://latex.codecogs.com/svg.latex?where\;P=c.salesRepEmployeeNumber=e.employeeNumber\wedge\;e.officeCode=o.officeCode\wedge\;c.city=o.city"/>
+<img src="https://latex.codecogs.com/svg.latex?where\;P=c.salesRepEmployeeNumber=e.employeeNumber\wedge\;e.of\!ficeCode=o.of\!ficeCode\wedge\;c.city=o.city"/>
 
-<img src="https://latex.codecogs.com/svg.latex?\Pi\;c.customerName,office\char`_city(\sigma\;P(\rho\;office\char`_city/o.city(customers\;x\;employees\;x\;offices)))"/>
+<img src="https://latex.codecogs.com/svg.latex?\Pi\;c.customerName,of\!fice\char`_city(\sigma\;P(\rho\;of\!fice\char`_city/o.city(customers\;x\;employees\;x\;of\!fices)))"/>
 
-<img src="https://latex.codecogs.com/svg.latex?\Pi\;c.customerName,office\char`_city(\sigma\;P(\rho\;office\char`_city/o.city(customers^{122}\;x\;employees^{23}\;x\;offices^{7})^{19642})^{17})"/>
+<img src="https://latex.codecogs.com/svg.latex?\Pi\;c.customerName,of\!fice\char`_city(\sigma\;P(\rho\;of\!fice\char`_city/o.city(customers^{122}\;x\;employees^{23}\;x\;of\!fices^{7})^{19642})^{17})"/>
 
 
