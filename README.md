@@ -1,6 +1,6 @@
 # LatexExercise
 
-<img src="https://latex.codecogs.com/svg.latex?P\;office_city/o.city(\sigma\;c.salesRepEmployeeNumber=e.employeeNumber(\sigma\;e.officeCode=o.officeCode(\sigma\;c.city=o.city(customers\;x\;employees\;x\;offices))))"/>
+<img src="https://latex.codecogs.com/svg.latex?P\;of\!fice_city/o.city(\sigma\;c.salesRepEmployeeNumber=e.employeeNumber(\sigma\;e.officeCode=o.officeCode(\sigma\;c.city=o.city(customers\;x\;employees\;x\;offices))))"/>
 
 <img src="https://latex.codecogs.com/svg.latex?where\;P=c.salesRepEmployeeNumber=e.employeeNumber\wedge\;e.officeCode=o.officeCode\wedge\;c.city=o.city"/>
 
